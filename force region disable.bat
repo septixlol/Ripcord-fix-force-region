@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title IPv6 Manager
+title IPvX Priority Manager
 color 5
 
 net session >nul 2>&1
