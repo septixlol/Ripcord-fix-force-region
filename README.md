@@ -65,4 +65,5 @@ Done, IPv4 is now prioritized and “force region” is disabled.
 **⚠️: If you encounter problems due to the priority change, switch back to IPv6 priority after finishing using Ripcord.**
 
 
-Now you shouldn't have any more problems with the forced region.
+
+💧 This script was created by Septix.
