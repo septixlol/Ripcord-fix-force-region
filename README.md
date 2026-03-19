@@ -29,6 +29,7 @@ Here's a .bat file that will fix the forced region (which restarts voice chat).
    Après le redémarrage, relance le script : le statut doit indiquer **IPv4 Priority**.
 
 Voilà, le "force region" est désactivé et IPv4 est prioritaire. 
+
 **⚠️: Si tu rencontres des problèmes dus au changement de priorité, remets la priorité sur IPv6 après avoir fini d’utiliser Ripcord.**
 
 ---
@@ -60,6 +61,7 @@ Voilà, le "force region" est désactivé et IPv4 est prioritaire.
    After reboot, open the script again. It should show **IPv4 Priority**.
 
 Done, IPv4 is now prioritized and “force region” is disabled. 
+
 **⚠️: If you encounter problems due to the priority change, switch back to IPv6 priority after finishing using Ripcord.**
 
 
